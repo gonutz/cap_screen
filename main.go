@@ -8,7 +8,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/gonutz/w32"
+	"github.com/gonutz/w32/v2"
 )
 
 const (
